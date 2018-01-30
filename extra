@@ -1,0 +1,6 @@
+nrow() = numbe rof rows
+ls() -> header
+names() -> header but also can be used to edit
+data.frame[row,column]
+temp = table(x)   -> to get frequency of data in column in x
+temp = data.frame(temp)  -> converts from table to data
